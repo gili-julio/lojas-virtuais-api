@@ -1,0 +1,30 @@
+[33mcommit ceb8ab83bc6d6e95c9613e3ee846cffe4ef4248d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31mbackend/main[m[33m)[m
+Author: gili-julio <giliardoplay@gmail.com>
+Date:   Sun May 26 18:39:58 2024 -0300
+
+    :books: Update .gitignore
+
+[33mcommit 910c2a11525703c16640e7f679824e41e320b8d0[m
+Merge: a673729 85ca491
+Author: gili-julio <giliardoplay@gmail.com>
+Date:   Sun May 26 18:37:22 2024 -0300
+
+    Merge remote-tracking branch 'backend/main'
+
+[33mcommit a673729a85066a787f8b446e0359fc0d6a92a480[m
+Author: gili-julio <giliardoplay@gmail.com>
+Date:   Sun May 26 18:29:56 2024 -0300
+
+    :tada: Commit Inicial (com as entidades)
+
+[33mcommit 85ca491334f11873757b1b394585cc6a8f6a31b4[m
+Author: Giliardo Júlio de Medeiros Júnior <108534731+gili-julio@users.noreply.github.com>
+Date:   Fri May 24 10:53:54 2024 -0300
+
+    :books: Atualização do README
+
+[33mcommit db40ff88bac64ea807d7935a07976927cd128e55[m
+Author: Giliardo Júlio de Medeiros Júnior <108534731+gili-julio@users.noreply.github.com>
+Date:   Fri May 24 10:41:08 2024 -0300
+
+    Initial commit
