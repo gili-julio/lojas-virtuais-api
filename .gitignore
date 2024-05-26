@@ -63,10 +63,10 @@ nbdist/
 
 # Maven specific
 log/
-src/main/resources/
-src/main/resources/application.properties
-src/main/resources/application.yml
-src/test/resources/
+/src/main/resources/
+/src/main/resources/application.properties
+/src/main/resources/application.yml
+/src/test/resources/
 target/
 test-output/
 dependency-reduced-pom.xml
